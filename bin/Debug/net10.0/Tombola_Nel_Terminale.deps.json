@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tombola_Nel_Terminale/1.0.0": {
+        "runtime": {
+          "Tombola_Nel_Terminale.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tombola_Nel_Terminale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

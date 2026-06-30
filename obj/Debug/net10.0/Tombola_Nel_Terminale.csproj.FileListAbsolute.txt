@@ -1,0 +1,15 @@
+/workspaces/Tombola_Nel_Terminale/bin/Debug/net10.0/Tombola_Nel_Terminale
+/workspaces/Tombola_Nel_Terminale/bin/Debug/net10.0/Tombola_Nel_Terminale.deps.json
+/workspaces/Tombola_Nel_Terminale/bin/Debug/net10.0/Tombola_Nel_Terminale.runtimeconfig.json
+/workspaces/Tombola_Nel_Terminale/bin/Debug/net10.0/Tombola_Nel_Terminale.dll
+/workspaces/Tombola_Nel_Terminale/bin/Debug/net10.0/Tombola_Nel_Terminale.pdb
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.AssemblyInfoInputs.cache
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.AssemblyInfo.cs
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.csproj.CoreCompileInputs.cache
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.sourcelink.json
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.dll
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/refint/Tombola_Nel_Terminale.dll
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.pdb
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/Tombola_Nel_Terminale.genruntimeconfig.cache
+/workspaces/Tombola_Nel_Terminale/obj/Debug/net10.0/ref/Tombola_Nel_Terminale.dll
